@@ -1,0 +1,2030 @@
+
+CDPOP Release 2023.01.19-09:55:00MDT Version version 1.3.19
+
+Author(s): Erin L Landguth et al.
+
+Session runtime inputs from: C:\Users\peterman.73\R\CDPOP\test_sim\data/CDPOP_inputs.csv
+
+
+DoUserInput(): 0:00:00
+DoPreProcess(): 0:00:00.221950
+DoCDCliamte(): 0:00:00.275411
+GetMetrics(): 0:00:00.059537
+DoMate(): 0:00:00.090333
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.779780
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00.047457
+The file grid1.csv has been created
+DoOutput(): 0:00:00.149317
+End Generation Loop0: 0:00:01.401835
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.055140
+DoMate(): 0:00:00.093579
+DoOffspring(): 0:00:00.015589
+InheritGenes(): 0:00:00.920820
+DoAdultMortality(): 0:00:00.029722
+DoDisperse(): 0:00:00.031208
+DoOutput(): 0:00:00
+End Generation Loop1: 0:00:01.146058
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063274
+DoMate(): 0:00:00.062539
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.746902
+DoAdultMortality(): 0:00:00.030170
+DoDisperse(): 0:00:00.037268
+DoOutput(): 0:00:00
+End Generation Loop2: 0:00:00.940153
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.072686
+DoMate(): 0:00:00.094434
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.757266
+DoAdultMortality(): 0:00:00.037521
+DoDisperse(): 0:00:00.019105
+DoOutput(): 0:00:00
+End Generation Loop3: 0:00:00.981012
+
+ReadGrid(): 0:00:00.015654
+GetMetrics(): 0:00:00.047314
+DoMate(): 0:00:00.080077
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.778964
+DoAdultMortality(): 0:00:00.037712
+DoDisperse(): 0:00:00.026473
+DoOutput(): 0:00:00
+End Generation Loop4: 0:00:00.986194
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.066527
+DoMate(): 0:00:00.067566
+DoOffspring(): 0:00:00.008004
+InheritGenes(): 0:00:00.705661
+DoAdultMortality(): 0:00:00.031364
+DoDisperse(): 0:00:00.032388
+DoOutput(): 0:00:00
+End Generation Loop5: 0:00:00.911510
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062643
+DoMate(): 0:00:00.079220
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.702425
+DoAdultMortality(): 0:00:00.030892
+DoDisperse(): 0:00:00.032714
+DoOutput(): 0:00:00
+End Generation Loop6: 0:00:00.907894
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.066057
+DoMate(): 0:00:00.060430
+DoOffspring(): 0:00:00.015005
+InheritGenes(): 0:00:00.701207
+DoAdultMortality(): 0:00:00.014712
+DoDisperse(): 0:00:00.048497
+DoOutput(): 0:00:00
+End Generation Loop7: 0:00:00.906418
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063406
+DoMate(): 0:00:00.074927
+DoOffspring(): 0:00:00.005000
+InheritGenes(): 0:00:00.706421
+DoAdultMortality(): 0:00:00.031079
+DoDisperse(): 0:00:00.046573
+DoOutput(): 0:00:00
+End Generation Loop8: 0:00:00.927406
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.080529
+DoMate(): 0:00:00.082504
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.778949
+DoAdultMortality(): 0:00:00.027016
+DoDisperse(): 0:00:00.030916
+DoOutput(): 0:00:00
+End Generation Loop9: 0:00:00.999914
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064134
+DoMate(): 0:00:00.064313
+DoOffspring(): 0:00:00.008531
+InheritGenes(): 0:00:00.688842
+DoAdultMortality(): 0:00:00.032266
+DoDisperse(): 0:00:00.031093
+DoOutput(): 0:00:00
+End Generation Loop10: 0:00:00.889179
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.075373
+DoMate(): 0:00:00.083732
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.749707
+DoAdultMortality(): 0:00:00.031376
+DoDisperse(): 0:00:00.031078
+DoOutput(): 0:00:00
+End Generation Loop11: 0:00:00.971266
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.065305
+DoMate(): 0:00:00.068535
+DoOffspring(): 0:00:00.009700
+InheritGenes(): 0:00:00.699564
+DoAdultMortality(): 0:00:00.032967
+DoDisperse(): 0:00:00.046626
+DoOutput(): 0:00:00.001206
+End Generation Loop12: 0:00:00.923903
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062191
+DoMate(): 0:00:00.079539
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.718193
+DoAdultMortality(): 0:00:00.030623
+DoDisperse(): 0:00:00.031481
+DoOutput(): 0:00:00.001219
+End Generation Loop13: 0:00:00.923246
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064187
+DoMate(): 0:00:00.062428
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.716603
+DoAdultMortality(): 0:00:00.028992
+DoDisperse(): 0:00:00.031846
+DoOutput(): 0:00:00.001052
+End Generation Loop14: 0:00:00.905692
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.047330
+DoMate(): 0:00:00.073518
+DoOffspring(): 0:00:00.005134
+InheritGenes(): 0:00:00.730247
+DoAdultMortality(): 0:00:00.031741
+DoDisperse(): 0:00:00.032084
+DoOutput(): 0:00:00
+End Generation Loop15: 0:00:00.920054
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064601
+DoMate(): 0:00:00.063926
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.712429
+DoAdultMortality(): 0:00:00.031699
+DoDisperse(): 0:00:00.032412
+DoOutput(): 0:00:00.001353
+End Generation Loop16: 0:00:00.906420
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.068350
+DoMate(): 0:00:00.058167
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.765113
+DoAdultMortality(): 0:00:00.031239
+DoDisperse(): 0:00:00.030923
+DoOutput(): 0:00:00
+End Generation Loop17: 0:00:00.953792
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063974
+DoMate(): 0:00:00.080836
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.696593
+DoAdultMortality(): 0:00:00.031899
+DoDisperse(): 0:00:00.034493
+DoOutput(): 0:00:00
+End Generation Loop18: 0:00:00.907795
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.060540
+DoMate(): 0:00:00.063496
+DoOffspring(): 0:00:00.017274
+InheritGenes(): 0:00:00.683349
+DoAdultMortality(): 0:00:00.047283
+DoDisperse(): 0:00:00.048576
+DoOutput(): 0:00:00.012229
+End Generation Loop19: 0:00:00.932747
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.066609
+DoMate(): 0:00:00.062532
+DoOffspring(): 0:00:00.015973
+InheritGenes(): 0:00:00.669793
+DoAdultMortality(): 0:00:00.030223
+DoDisperse(): 0:00:00.031582
+DoOutput(): 0:00:00
+End Generation Loop20: 0:00:00.876712
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.065729
+DoMate(): 0:00:00.061704
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.728207
+DoAdultMortality(): 0:00:00.033478
+DoDisperse(): 0:00:00.031358
+DoOutput(): 0:00:00
+End Generation Loop21: 0:00:00.920476
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.065228
+DoMate(): 0:00:00.060349
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.729633
+DoAdultMortality(): 0:00:00.015863
+DoDisperse(): 0:00:00.030744
+DoOutput(): 0:00:00.015982
+End Generation Loop22: 0:00:00.917799
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064039
+DoMate(): 0:00:00.064495
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.720717
+DoAdultMortality(): 0:00:00.027509
+DoDisperse(): 0:00:00.027626
+DoOutput(): 0:00:00
+End Generation Loop23: 0:00:00.904386
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.080080
+DoMate(): 0:00:00.094382
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.746878
+DoAdultMortality(): 0:00:00.032007
+DoDisperse(): 0:00:00.040429
+DoOutput(): 0:00:00.003243
+End Generation Loop24: 0:00:00.997019
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.055890
+DoMate(): 0:00:00.074126
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.698321
+DoAdultMortality(): 0:00:00.031149
+DoDisperse(): 0:00:00.031434
+DoOutput(): 0:00:00
+End Generation Loop25: 0:00:00.890920
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062924
+DoMate(): 0:00:00.063446
+DoOffspring(): 0:00:00.015011
+InheritGenes(): 0:00:00.787659
+DoAdultMortality(): 0:00:00.029033
+DoDisperse(): 0:00:00.033367
+DoOutput(): 0:00:00.000509
+End Generation Loop26: 0:00:00.991949
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063253
+DoMate(): 0:00:00.071232
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.710390
+DoAdultMortality(): 0:00:00.026440
+DoDisperse(): 0:00:00.033633
+DoOutput(): 0:00:00
+End Generation Loop27: 0:00:00.904948
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.066909
+DoMate(): 0:00:00.064899
+DoOffspring(): 0:00:00.008031
+InheritGenes(): 0:00:00.758057
+DoAdultMortality(): 0:00:00.018688
+DoDisperse(): 0:00:00.027929
+DoOutput(): 0:00:00.016940
+End Generation Loop28: 0:00:00.961962
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062456
+DoMate(): 0:00:00.063146
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.731633
+DoAdultMortality(): 0:00:00.028674
+DoDisperse(): 0:00:00.019511
+DoOutput(): 0:00:00.016047
+End Generation Loop29: 0:00:00.921467
+
+ReadGrid(): 0:00:00.000730
+GetMetrics(): 0:00:00.046387
+DoMate(): 0:00:00.078544
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.746989
+DoAdultMortality(): 0:00:00.031893
+DoDisperse(): 0:00:00.032352
+DoOutput(): 0:00:00
+End Generation Loop30: 0:00:00.936895
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064645
+DoMate(): 0:00:00.071065
+DoOffspring(): 0:00:00.008042
+InheritGenes(): 0:00:00.810115
+DoAdultMortality(): 0:00:00.031268
+DoDisperse(): 0:00:00.031283
+DoOutput(): 0:00:00.017453
+End Generation Loop31: 0:00:01.033871
+
+ReadGrid(): 0:00:00.000815
+GetMetrics(): 0:00:00.063647
+DoMate(): 0:00:00.067477
+DoOffspring(): 0:00:00.006257
+InheritGenes(): 0:00:00.746634
+DoAdultMortality(): 0:00:00.032456
+DoDisperse(): 0:00:00.031574
+DoOutput(): 0:00:00
+End Generation Loop32: 0:00:00.948860
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.065209
+DoMate(): 0:00:00.100062
+DoOffspring(): 0:00:00.008505
+InheritGenes(): 0:00:00.746560
+DoAdultMortality(): 0:00:00.031852
+DoDisperse(): 0:00:00.042958
+DoOutput(): 0:00:00.002156
+End Generation Loop33: 0:00:00.997302
+
+ReadGrid(): 0:00:00.001022
+GetMetrics(): 0:00:00.050257
+DoMate(): 0:00:00.077782
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.762610
+DoAdultMortality(): 0:00:00.031324
+DoDisperse(): 0:00:00.031264
+DoOutput(): 0:00:00
+End Generation Loop34: 0:00:00.954259
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.065382
+DoMate(): 0:00:00.088975
+DoOffspring(): 0:00:00.005266
+InheritGenes(): 0:00:00.706756
+DoAdultMortality(): 0:00:00.027251
+DoDisperse(): 0:00:00.032832
+DoOutput(): 0:00:00.003094
+End Generation Loop35: 0:00:00.929556
+
+ReadGrid(): 0:00:00.000890
+GetMetrics(): 0:00:00.063898
+DoMate(): 0:00:00.071973
+DoOffspring(): 0:00:00.003168
+InheritGenes(): 0:00:00.743308
+DoAdultMortality(): 0:00:00.028778
+DoDisperse(): 0:00:00.031059
+DoOutput(): 0:00:00.002973
+End Generation Loop36: 0:00:00.946047
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.066632
+DoMate(): 0:00:00.065879
+DoOffspring(): 0:00:00.004000
+InheritGenes(): 0:00:00.705859
+DoAdultMortality(): 0:00:00.030755
+DoDisperse(): 0:00:00.041404
+DoOutput(): 0:00:00.002992
+End Generation Loop37: 0:00:00.917521
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.052662
+DoMate(): 0:00:00.063049
+DoOffspring(): 0:00:00.009606
+InheritGenes(): 0:00:00.801253
+DoAdultMortality(): 0:00:00.016648
+DoDisperse(): 0:00:00.043830
+DoOutput(): 0:00:00.002982
+End Generation Loop38: 0:00:00.990030
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063617
+DoMate(): 0:00:00.073043
+DoOffspring(): 0:00:00.006681
+InheritGenes(): 0:00:00.756451
+DoAdultMortality(): 0:00:00.037735
+DoDisperse(): 0:00:00.026908
+DoOutput(): 0:00:00
+End Generation Loop39: 0:00:00.964435
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.073103
+DoMate(): 0:00:00.063187
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.718440
+DoAdultMortality(): 0:00:00.031036
+DoDisperse(): 0:00:00.031558
+DoOutput(): 0:00:00
+End Generation Loop40: 0:00:00.917324
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.086860
+DoMate(): 0:00:00.063119
+DoOffspring(): 0:00:00.006822
+InheritGenes(): 0:00:00.730094
+DoAdultMortality(): 0:00:00.033591
+DoDisperse(): 0:00:00.031757
+DoOutput(): 0:00:00.005008
+End Generation Loop41: 0:00:00.957251
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.057938
+DoMate(): 0:00:00.071650
+DoOffspring(): 0:00:00.012013
+InheritGenes(): 0:00:00.763743
+DoAdultMortality(): 0:00:00.031808
+DoDisperse(): 0:00:00.048677
+DoOutput(): 0:00:00
+End Generation Loop42: 0:00:00.985829
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062543
+DoMate(): 0:00:00.064724
+DoOffspring(): 0:00:00.015421
+InheritGenes(): 0:00:00.712503
+DoAdultMortality(): 0:00:00.025931
+DoDisperse(): 0:00:00.037760
+DoOutput(): 0:00:00
+End Generation Loop43: 0:00:00.918882
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.058465
+DoMate(): 0:00:00.075084
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.725324
+DoAdultMortality(): 0:00:00.026299
+DoDisperse(): 0:00:00.033058
+DoOutput(): 0:00:00
+End Generation Loop44: 0:00:00.918230
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.061583
+DoMate(): 0:00:00.096621
+DoOffspring(): 0:00:00.016061
+InheritGenes(): 0:00:00.735634
+DoAdultMortality(): 0:00:00.021460
+DoDisperse(): 0:00:00.043432
+DoOutput(): 0:00:00.004510
+End Generation Loop45: 0:00:00.979301
+
+ReadGrid(): 0:00:00.001077
+GetMetrics(): 0:00:00.050163
+DoMate(): 0:00:00.081545
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.804361
+DoAdultMortality(): 0:00:00.029572
+DoDisperse(): 0:00:00.032004
+DoOutput(): 0:00:00.003509
+End Generation Loop46: 0:00:01.002231
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062835
+DoMate(): 0:00:00.065338
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.774471
+DoAdultMortality(): 0:00:00.030545
+DoDisperse(): 0:00:00.032722
+DoOutput(): 0:00:00
+End Generation Loop47: 0:00:00.965911
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063954
+DoMate(): 0:00:00.069214
+DoOffspring(): 0:00:00.002862
+InheritGenes(): 0:00:00.737256
+DoAdultMortality(): 0:00:00.038236
+DoDisperse(): 0:00:00.027460
+DoOutput(): 0:00:00
+End Generation Loop48: 0:00:00.938982
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.072134
+DoMate(): 0:00:00.054200
+DoOffspring(): 0:00:00.015231
+InheritGenes(): 0:00:00.825895
+DoAdultMortality(): 0:00:00.032144
+DoDisperse(): 0:00:00.036540
+DoOutput(): 0:00:00.007723
+End Generation Loop49: 0:00:01.043867
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.054920
+DoMate(): 0:00:00.075646
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.729522
+DoAdultMortality(): 0:00:00.031369
+DoDisperse(): 0:00:00.030823
+DoOutput(): 0:00:00.003837
+End Generation Loop50: 0:00:00.926117
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.060831
+DoMate(): 0:00:00.069762
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.802748
+DoAdultMortality(): 0:00:00.035355
+DoDisperse(): 0:00:00.038787
+DoOutput(): 0:00:00.002014
+End Generation Loop51: 0:00:01.009497
+
+ReadGrid(): 0:00:00.001009
+GetMetrics(): 0:00:00.059781
+DoMate(): 0:00:00.068332
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.798612
+DoAdultMortality(): 0:00:00.048526
+DoDisperse(): 0:00:00.027308
+DoOutput(): 0:00:00
+End Generation Loop52: 0:00:01.003568
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.078671
+DoMate(): 0:00:00.065053
+DoOffspring(): 0:00:00.014890
+InheritGenes(): 0:00:00.785494
+DoAdultMortality(): 0:00:00.027557
+DoDisperse(): 0:00:00.049110
+DoOutput(): 0:00:00.001581
+End Generation Loop53: 0:00:01.022356
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.065750
+DoMate(): 0:00:00.062955
+DoOffspring(): 0:00:00.015622
+InheritGenes(): 0:00:00.805425
+DoAdultMortality(): 0:00:00.015866
+DoDisperse(): 0:00:00.034299
+DoOutput(): 0:00:00.013006
+End Generation Loop54: 0:00:01.012923
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062974
+DoMate(): 0:00:00.062900
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.744544
+DoAdultMortality(): 0:00:00.018035
+DoDisperse(): 0:00:00.044802
+DoOutput(): 0:00:00
+End Generation Loop55: 0:00:00.933255
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.055205
+DoMate(): 0:00:00.073264
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.767451
+DoAdultMortality(): 0:00:00.029199
+DoDisperse(): 0:00:00.034961
+DoOutput(): 0:00:00.002452
+End Generation Loop56: 0:00:01.066220
+
+ReadGrid(): 0:00:00.001747
+GetMetrics(): 0:00:00.059199
+DoMate(): 0:00:00.062288
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.805421
+DoAdultMortality(): 0:00:00.031218
+DoDisperse(): 0:00:00.047345
+DoOutput(): 0:00:00
+End Generation Loop57: 0:00:01.007218
+
+ReadGrid(): 0:00:00.015698
+GetMetrics(): 0:00:00.079461
+DoMate(): 0:00:00.081793
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.745679
+DoAdultMortality(): 0:00:00.029226
+DoDisperse(): 0:00:00.032826
+DoOutput(): 0:00:00
+End Generation Loop58: 0:00:00.984683
+
+ReadGrid(): 0:00:00.009891
+GetMetrics(): 0:00:00.051683
+DoMate(): 0:00:00.072834
+DoOffspring(): 0:00:00.006505
+InheritGenes(): 0:00:00.848981
+DoAdultMortality(): 0:00:00.047422
+DoDisperse(): 0:00:00.033915
+DoOutput(): 0:00:00
+End Generation Loop59: 0:00:01.071231
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062507
+DoMate(): 0:00:00.079227
+DoOffspring(): 0:00:00.004537
+InheritGenes(): 0:00:00.730262
+DoAdultMortality(): 0:00:00.028219
+DoDisperse(): 0:00:00.031765
+DoOutput(): 0:00:00
+End Generation Loop60: 0:00:00.936517
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064276
+DoMate(): 0:00:00.069808
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.853422
+DoAdultMortality(): 0:00:00.028070
+DoDisperse(): 0:00:00.033926
+DoOutput(): 0:00:00.002105
+End Generation Loop61: 0:00:01.051607
+
+ReadGrid(): 0:00:00.001015
+GetMetrics(): 0:00:00.061038
+DoMate(): 0:00:00.062730
+DoOffspring(): 0:00:00.008546
+InheritGenes(): 0:00:00.865961
+DoAdultMortality(): 0:00:00.030536
+DoDisperse(): 0:00:00.042020
+DoOutput(): 0:00:00
+End Generation Loop62: 0:00:01.071846
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.054808
+DoMate(): 0:00:00.082223
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.825922
+DoAdultMortality(): 0:00:00.027891
+DoDisperse(): 0:00:00.031582
+DoOutput(): 0:00:00
+End Generation Loop63: 0:00:01.022426
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062900
+DoMate(): 0:00:00.087696
+DoOffspring(): 0:00:00.007330
+InheritGenes(): 0:00:00.840536
+DoAdultMortality(): 0:00:00.021776
+DoDisperse(): 0:00:00.029661
+DoOutput(): 0:00:00.027976
+End Generation Loop64: 0:00:01.077875
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.079869
+DoMate(): 0:00:00.078378
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.749653
+DoAdultMortality(): 0:00:00.031246
+DoDisperse(): 0:00:00.034760
+DoOutput(): 0:00:00.012505
+End Generation Loop65: 0:00:00.986411
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062785
+DoMate(): 0:00:00.082639
+DoOffspring(): 0:00:00.009182
+InheritGenes(): 0:00:00.748235
+DoAdultMortality(): 0:00:00.030214
+DoDisperse(): 0:00:00.031471
+DoOutput(): 0:00:00
+End Generation Loop66: 0:00:00.964526
+
+ReadGrid(): 0:00:00.016153
+GetMetrics(): 0:00:00.048404
+DoMate(): 0:00:00.078499
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.815281
+DoAdultMortality(): 0:00:00.030945
+DoDisperse(): 0:00:00.036417
+DoOutput(): 0:00:00
+End Generation Loop67: 0:00:01.025699
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.057955
+DoMate(): 0:00:00.080784
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.713291
+DoAdultMortality(): 0:00:00.031529
+DoDisperse(): 0:00:00.031932
+DoOutput(): 0:00:00
+End Generation Loop68: 0:00:00.915491
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063910
+DoMate(): 0:00:00.079487
+DoOffspring(): 0:00:00.015670
+InheritGenes(): 0:00:00.775456
+DoAdultMortality(): 0:00:00.015953
+DoDisperse(): 0:00:00.043482
+DoOutput(): 0:00:00.002350
+End Generation Loop69: 0:00:00.997310
+
+ReadGrid(): 0:00:00.001012
+GetMetrics(): 0:00:00.050958
+DoMate(): 0:00:00.076307
+DoOffspring(): 0:00:00.007059
+InheritGenes(): 0:00:00.769897
+DoAdultMortality(): 0:00:00.021958
+DoDisperse(): 0:00:00.041460
+DoOutput(): 0:00:00.001081
+End Generation Loop70: 0:00:00.969732
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.058686
+DoMate(): 0:00:00.066142
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.798823
+DoAdultMortality(): 0:00:00.021949
+DoDisperse(): 0:00:00.031141
+DoOutput(): 0:00:00
+End Generation Loop71: 0:00:00.976741
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063070
+DoMate(): 0:00:00.095551
+DoOffspring(): 0:00:00.017353
+InheritGenes(): 0:00:00.744605
+DoAdultMortality(): 0:00:00.062745
+DoDisperse(): 0:00:00.051748
+DoOutput(): 0:00:00.001833
+End Generation Loop72: 0:00:01.037410
+
+ReadGrid(): 0:00:00.001001
+GetMetrics(): 0:00:00.054880
+DoMate(): 0:00:00.096103
+DoOffspring(): 0:00:00.015114
+InheritGenes(): 0:00:00.744466
+DoAdultMortality(): 0:00:00.031269
+DoDisperse(): 0:00:00.031242
+DoOutput(): 0:00:00
+End Generation Loop73: 0:00:00.974075
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062936
+DoMate(): 0:00:00.074116
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.710834
+DoAdultMortality(): 0:00:00.031269
+DoDisperse(): 0:00:00.031285
+DoOutput(): 0:00:00
+End Generation Loop74: 0:00:00.910440
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.078511
+DoMate(): 0:00:00.062884
+DoOffspring(): 0:00:00.015669
+InheritGenes(): 0:00:00.721093
+DoAdultMortality(): 0:00:00.031250
+DoDisperse(): 0:00:00.031696
+DoOutput(): 0:00:00
+End Generation Loop75: 0:00:00.941103
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062529
+DoMate(): 0:00:00.094157
+DoOffspring(): 0:00:00.015620
+InheritGenes(): 0:00:00.754089
+DoAdultMortality(): 0:00:00.015626
+DoDisperse(): 0:00:00.046872
+DoOutput(): 0:00:00.002023
+End Generation Loop76: 0:00:00.990916
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.060910
+DoMate(): 0:00:00.062966
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.815356
+DoAdultMortality(): 0:00:00.031249
+DoDisperse(): 0:00:00.031682
+DoOutput(): 0:00:00
+End Generation Loop77: 0:00:01.002163
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062523
+DoMate(): 0:00:00.076834
+DoOffspring(): 0:00:00.003984
+InheritGenes(): 0:00:00.778242
+DoAdultMortality(): 0:00:00.031234
+DoDisperse(): 0:00:00.043196
+DoOutput(): 0:00:00.002260
+End Generation Loop78: 0:00:00.998273
+
+ReadGrid(): 0:00:00.001004
+GetMetrics(): 0:00:00.063055
+DoMate(): 0:00:00.062906
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.784772
+DoAdultMortality(): 0:00:00.031263
+DoDisperse(): 0:00:00.046917
+DoOutput(): 0:00:00
+End Generation Loop79: 0:00:00.989917
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062967
+DoMate(): 0:00:00.062920
+DoOffspring(): 0:00:00.015642
+InheritGenes(): 0:00:00.746693
+DoAdultMortality(): 0:00:00.031679
+DoDisperse(): 0:00:00.031315
+DoOutput(): 0:00:00
+End Generation Loop80: 0:00:00.951216
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064977
+DoMate(): 0:00:00.060440
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.815604
+DoAdultMortality(): 0:00:00.031671
+DoDisperse(): 0:00:00.031263
+DoOutput(): 0:00:00
+End Generation Loop81: 0:00:01.003955
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062406
+DoMate(): 0:00:00.064072
+DoOffspring(): 0:00:00.015640
+InheritGenes(): 0:00:00.722600
+DoAdultMortality(): 0:00:00.031258
+DoDisperse(): 0:00:00.031251
+DoOutput(): 0:00:00
+End Generation Loop82: 0:00:00.927227
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062937
+DoMate(): 0:00:00.074278
+DoOffspring(): 0:00:00.013517
+InheritGenes(): 0:00:00.872215
+DoAdultMortality(): 0:00:00.016133
+DoDisperse(): 0:00:00.046770
+DoOutput(): 0:00:00
+End Generation Loop83: 0:00:01.085850
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062886
+DoMate(): 0:00:00.062511
+DoOffspring(): 0:00:00.015625
+InheritGenes(): 0:00:00.753405
+DoAdultMortality(): 0:00:00.039397
+DoDisperse(): 0:00:00.043836
+DoOutput(): 0:00:00.002020
+End Generation Loop84: 0:00:00.979680
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.100728
+DoMate(): 0:00:00.058459
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:01.257689
+DoAdultMortality(): 0:00:00.031266
+DoDisperse(): 0:00:00.031664
+DoOutput(): 0:00:00
+End Generation Loop85: 0:00:01.479806
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.078564
+DoMate(): 0:00:00.078143
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.785167
+DoAdultMortality(): 0:00:00.031254
+DoDisperse(): 0:00:00.031680
+DoOutput(): 0:00:00
+End Generation Loop86: 0:00:01.004808
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062524
+DoMate(): 0:00:00.078584
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.818655
+DoAdultMortality(): 0:00:00.028550
+DoDisperse(): 0:00:00.031303
+DoOutput(): 0:00:00
+End Generation Loop87: 0:00:01.019616
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062873
+DoMate(): 0:00:00.078337
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.706372
+DoAdultMortality(): 0:00:00.031656
+DoDisperse(): 0:00:00.031263
+DoOutput(): 0:00:00
+End Generation Loop88: 0:00:00.910501
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.094151
+DoMate(): 0:00:00.062895
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.722201
+DoAdultMortality(): 0:00:00.031249
+DoDisperse(): 0:00:00.036761
+DoOutput(): 0:00:00
+End Generation Loop89: 0:00:00.947257
+
+ReadGrid(): 0:00:00.010557
+GetMetrics(): 0:00:00.062513
+DoMate(): 0:00:00.062905
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.702235
+DoAdultMortality(): 0:00:00.015607
+DoDisperse(): 0:00:00.047318
+DoOutput(): 0:00:00
+End Generation Loop90: 0:00:00.916773
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.078154
+DoMate(): 0:00:00.078739
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.816708
+DoAdultMortality(): 0:00:00.031734
+DoDisperse(): 0:00:00.031216
+DoOutput(): 0:00:00
+End Generation Loop91: 0:00:01.036551
+
+ReadGrid(): 0:00:00.015626
+GetMetrics(): 0:00:00.047311
+DoMate(): 0:00:00.094184
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.807234
+DoAdultMortality(): 0:00:00.031292
+DoDisperse(): 0:00:00.037792
+DoOutput(): 0:00:00
+End Generation Loop92: 0:00:01.033439
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.066337
+DoMate(): 0:00:00.051930
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.723795
+DoAdultMortality(): 0:00:00.031248
+DoDisperse(): 0:00:00.031214
+DoOutput(): 0:00:00
+End Generation Loop93: 0:00:00.904524
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.078630
+DoMate(): 0:00:00.113295
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.792803
+DoAdultMortality(): 0:00:00.031759
+DoDisperse(): 0:00:00.031180
+DoOutput(): 0:00:00
+End Generation Loop94: 0:00:01.047667
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.076456
+DoMate(): 0:00:00.068194
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.729418
+DoAdultMortality(): 0:00:00.015673
+DoDisperse(): 0:00:00.046854
+DoOutput(): 0:00:00
+End Generation Loop95: 0:00:00.936595
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062946
+DoMate(): 0:00:00.079503
+DoOffspring(): 0:00:00.004000
+InheritGenes(): 0:00:00.789628
+DoAdultMortality(): 0:00:00.024184
+DoDisperse(): 0:00:00.031251
+DoOutput(): 0:00:00
+End Generation Loop96: 0:00:00.991512
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062942
+DoMate(): 0:00:00.074824
+DoOffspring(): 0:00:00.007027
+InheritGenes(): 0:00:00.690838
+DoAdultMortality(): 0:00:00.031728
+DoDisperse(): 0:00:00.031250
+DoOutput(): 0:00:00
+End Generation Loop97: 0:00:00.898609
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062945
+DoMate(): 0:00:00.062657
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.654501
+DoAdultMortality(): 0:00:00.031250
+DoDisperse(): 0:00:00.037723
+DoOutput(): 0:00:00
+End Generation Loop98: 0:00:00.849076
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.056434
+DoMate(): 0:00:00.078623
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.656021
+DoAdultMortality(): 0:00:00.031229
+DoDisperse(): 0:00:00.031255
+DoOutput(): 0:00:00
+End Generation Loop99: 0:00:00.853562
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063056
+DoMate(): 0:00:00.062512
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.660906
+DoAdultMortality(): 0:00:00.031170
+DoDisperse(): 0:00:00.031741
+The file grid101.csv has been created
+DoOutput(): 0:00:00.088622
+End Generation Loop100: 0:00:00.938007
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.061938
+DoMate(): 0:00:00.055967
+DoOffspring(): 0:00:00.016674
+InheritGenes(): 0:00:00.732111
+DoAdultMortality(): 0:00:00.031248
+DoDisperse(): 0:00:00.031733
+DoOutput(): 0:00:00
+End Generation Loop101: 0:00:00.929671
+
+ReadGrid(): 0:00:00.015618
+GetMetrics(): 0:00:00.055896
+DoMate(): 0:00:00.063419
+DoOffspring(): 0:00:00.015625
+InheritGenes(): 0:00:00.717334
+DoAdultMortality(): 0:00:00.031621
+DoDisperse(): 0:00:00.031298
+DoOutput(): 0:00:00
+End Generation Loop102: 0:00:00.930811
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064172
+DoMate(): 0:00:00.076205
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.724168
+DoAdultMortality(): 0:00:00.020973
+DoDisperse(): 0:00:00.031274
+DoOutput(): 0:00:00
+End Generation Loop103: 0:00:00.916792
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063192
+DoMate(): 0:00:00.063030
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.733882
+DoAdultMortality(): 0:00:00.031894
+DoDisperse(): 0:00:00.027266
+DoOutput(): 0:00:00
+End Generation Loop104: 0:00:00.919264
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.072580
+DoMate(): 0:00:00.071458
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.704369
+DoAdultMortality(): 0:00:00.044839
+DoDisperse(): 0:00:00.029211
+DoOutput(): 0:00:00
+End Generation Loop105: 0:00:00.922457
+
+ReadGrid(): 0:00:00.014045
+GetMetrics(): 0:00:00.064608
+DoMate(): 0:00:00.078296
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.718184
+DoAdultMortality(): 0:00:00.032829
+DoDisperse(): 0:00:00.032868
+DoOutput(): 0:00:00
+End Generation Loop106: 0:00:00.940830
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.068499
+DoMate(): 0:00:00.054172
+DoOffspring(): 0:00:00.018418
+InheritGenes(): 0:00:00.698887
+DoAdultMortality(): 0:00:00.021324
+DoDisperse(): 0:00:00.043303
+DoOutput(): 0:00:00.002450
+End Generation Loop107: 0:00:00.907053
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.060848
+DoMate(): 0:00:00.069110
+DoOffspring(): 0:00:00.003000
+InheritGenes(): 0:00:00.691964
+DoAdultMortality(): 0:00:00.031989
+DoDisperse(): 0:00:00.031264
+DoOutput(): 0:00:00
+End Generation Loop108: 0:00:00.888175
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.066648
+DoMate(): 0:00:00.058916
+DoOffspring(): 0:00:00.007060
+InheritGenes(): 0:00:00.655139
+DoAdultMortality(): 0:00:00.015656
+DoDisperse(): 0:00:00.031219
+DoOutput(): 0:00:00.015626
+End Generation Loop109: 0:00:00.850264
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062893
+DoMate(): 0:00:00.065305
+DoOffspring(): 0:00:00.003016
+InheritGenes(): 0:00:00.686503
+DoAdultMortality(): 0:00:00.029210
+DoDisperse(): 0:00:00.032064
+DoOutput(): 0:00:00
+End Generation Loop110: 0:00:00.878991
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062484
+DoMate(): 0:00:00.070685
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.707515
+DoAdultMortality(): 0:00:00.030322
+DoDisperse(): 0:00:00.031357
+DoOutput(): 0:00:00
+End Generation Loop111: 0:00:00.902363
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062877
+DoMate(): 0:00:00.071961
+DoOffspring(): 0:00:00.004519
+InheritGenes(): 0:00:00.745266
+DoAdultMortality(): 0:00:00.049469
+DoDisperse(): 0:00:00.047392
+DoOutput(): 0:00:00
+End Generation Loop112: 0:00:00.981484
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.079397
+DoMate(): 0:00:00.063836
+DoOffspring(): 0:00:00.014547
+InheritGenes(): 0:00:00.692316
+DoAdultMortality(): 0:00:00.027525
+DoDisperse(): 0:00:00.042422
+DoOutput(): 0:00:00.003998
+End Generation Loop113: 0:00:01.022465
+
+ReadGrid(): 0:00:00.001000
+GetMetrics(): 0:00:00.065568
+DoMate(): 0:00:00.062731
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.718833
+DoAdultMortality(): 0:00:00.031418
+DoDisperse(): 0:00:00.041514
+DoOutput(): 0:00:00
+End Generation Loop114: 0:00:00.921064
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064717
+DoMate(): 0:00:00.078979
+DoOffspring(): 0:00:00.008886
+InheritGenes(): 0:00:00.705843
+DoAdultMortality(): 0:00:00.031895
+DoDisperse(): 0:00:00.031641
+DoOutput(): 0:00:00
+End Generation Loop115: 0:00:00.921961
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.078450
+DoMate(): 0:00:00.068404
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.692081
+DoAdultMortality(): 0:00:00.018556
+DoDisperse(): 0:00:00.043395
+DoOutput(): 0:00:00
+End Generation Loop116: 0:00:00.900886
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062505
+DoMate(): 0:00:00.080185
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.685133
+DoAdultMortality(): 0:00:00.030686
+DoDisperse(): 0:00:00.048068
+DoOutput(): 0:00:00.000508
+End Generation Loop117: 0:00:00.907085
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063183
+DoMate(): 0:00:00.062607
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.719049
+DoAdultMortality(): 0:00:00.015522
+DoDisperse(): 0:00:00.047489
+DoOutput(): 0:00:00
+End Generation Loop118: 0:00:00.907850
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062382
+DoMate(): 0:00:00.067982
+DoOffspring(): 0:00:00.004186
+InheritGenes(): 0:00:00.703397
+DoAdultMortality(): 0:00:00.032047
+DoDisperse(): 0:00:00.030646
+DoOutput(): 0:00:00
+End Generation Loop119: 0:00:00.900640
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064153
+DoMate(): 0:00:00.065022
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.683767
+DoAdultMortality(): 0:00:00.030441
+DoDisperse(): 0:00:00.031056
+DoOutput(): 0:00:00
+End Generation Loop120: 0:00:00.874439
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064657
+DoMate(): 0:00:00.062456
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.699015
+DoAdultMortality(): 0:00:00.040026
+DoDisperse(): 0:00:00.033114
+DoOutput(): 0:00:00
+End Generation Loop121: 0:00:00.899268
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064255
+DoMate(): 0:00:00.063640
+DoOffspring(): 0:00:00.005386
+InheritGenes(): 0:00:00.706392
+DoAdultMortality(): 0:00:00.023718
+DoDisperse(): 0:00:00.038745
+DoOutput(): 0:00:00
+End Generation Loop122: 0:00:00.902136
+
+ReadGrid(): 0:00:00.008005
+GetMetrics(): 0:00:00.047883
+DoMate(): 0:00:00.071870
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.654390
+DoAdultMortality(): 0:00:00.029068
+DoDisperse(): 0:00:00.032540
+DoOutput(): 0:00:00
+End Generation Loop123: 0:00:00.843756
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063435
+DoMate(): 0:00:00.067433
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.707938
+DoAdultMortality(): 0:00:00.032234
+DoDisperse(): 0:00:00.033327
+DoOutput(): 0:00:00.007244
+End Generation Loop124: 0:00:00.911611
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.059445
+DoMate(): 0:00:00.075206
+DoOffspring(): 0:00:00.001542
+InheritGenes(): 0:00:00.692796
+DoAdultMortality(): 0:00:00.031499
+DoDisperse(): 0:00:00.032967
+DoOutput(): 0:00:00
+End Generation Loop125: 0:00:00.893455
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.067237
+DoMate(): 0:00:00.059513
+DoOffspring(): 0:00:00.010831
+InheritGenes(): 0:00:00.699318
+DoAdultMortality(): 0:00:00.015866
+DoDisperse(): 0:00:00.032369
+DoOutput(): 0:00:00
+End Generation Loop126: 0:00:00.885134
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.076429
+DoMate(): 0:00:00.066366
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.700731
+DoAdultMortality(): 0:00:00.032032
+DoDisperse(): 0:00:00.031590
+DoOutput(): 0:00:00
+End Generation Loop127: 0:00:00.907148
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062896
+DoMate(): 0:00:00.066452
+DoOffspring(): 0:00:00.003124
+InheritGenes(): 0:00:00.713231
+DoAdultMortality(): 0:00:00.033461
+DoDisperse(): 0:00:00.044942
+DoOutput(): 0:00:00
+End Generation Loop128: 0:00:00.924106
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.053064
+DoMate(): 0:00:00.059551
+DoOffspring(): 0:00:00.015045
+InheritGenes(): 0:00:00.683159
+DoAdultMortality(): 0:00:00.032894
+DoDisperse(): 0:00:00.032259
+DoOutput(): 0:00:00
+End Generation Loop129: 0:00:00.875972
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062343
+DoMate(): 0:00:00.080069
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.698015
+DoAdultMortality(): 0:00:00.031448
+DoDisperse(): 0:00:00.031774
+DoOutput(): 0:00:00
+End Generation Loop130: 0:00:00.903649
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063113
+DoMate(): 0:00:00.064264
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.730502
+DoAdultMortality(): 0:00:00.018799
+DoDisperse(): 0:00:00.028161
+DoOutput(): 0:00:00.016034
+End Generation Loop131: 0:00:00.920873
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.056025
+DoMate(): 0:00:00.072158
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.697516
+DoAdultMortality(): 0:00:00.032620
+DoDisperse(): 0:00:00.030147
+DoOutput(): 0:00:00
+End Generation Loop132: 0:00:00.888466
+
+ReadGrid(): 0:00:00.015656
+GetMetrics(): 0:00:00.052956
+DoMate(): 0:00:00.072882
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.727775
+DoAdultMortality(): 0:00:00.021471
+DoDisperse(): 0:00:00.029989
+DoOutput(): 0:00:00
+End Generation Loop133: 0:00:00.920729
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.079498
+DoMate(): 0:00:00.047798
+DoOffspring(): 0:00:00.024215
+InheritGenes(): 0:00:00.755428
+DoAdultMortality(): 0:00:00.015715
+DoDisperse(): 0:00:00.049336
+DoOutput(): 0:00:00.000503
+End Generation Loop134: 0:00:00.972493
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.060667
+DoMate(): 0:00:00.066213
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.666390
+DoAdultMortality(): 0:00:00.029920
+DoDisperse(): 0:00:00.031328
+DoOutput(): 0:00:00
+End Generation Loop135: 0:00:00.854518
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063716
+DoMate(): 0:00:00.064144
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.712108
+DoAdultMortality(): 0:00:00.032618
+DoDisperse(): 0:00:00.032784
+DoOutput(): 0:00:00
+End Generation Loop136: 0:00:00.905370
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062460
+DoMate(): 0:00:00.064169
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.703123
+DoAdultMortality(): 0:00:00.029583
+DoDisperse(): 0:00:00.030913
+DoOutput(): 0:00:00
+End Generation Loop137: 0:00:00.890248
+
+ReadGrid(): 0:00:00.010458
+GetMetrics(): 0:00:00.062149
+DoMate(): 0:00:00.069355
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.652061
+DoAdultMortality(): 0:00:00.036103
+DoDisperse(): 0:00:00.028506
+DoOutput(): 0:00:00
+End Generation Loop138: 0:00:00.858632
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.071573
+DoMate(): 0:00:00.055657
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.712784
+DoAdultMortality(): 0:00:00.016231
+DoDisperse(): 0:00:00.031369
+DoOutput(): 0:00:00.016060
+End Generation Loop139: 0:00:00.903674
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.047702
+DoMate(): 0:00:00.063696
+DoOffspring(): 0:00:00.016107
+InheritGenes(): 0:00:00.685818
+DoAdultMortality(): 0:00:00.017762
+DoDisperse(): 0:00:00.038952
+DoOutput(): 0:00:00.008337
+End Generation Loop140: 0:00:00.878374
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062497
+DoMate(): 0:00:00.046713
+DoOffspring(): 0:00:00.019230
+InheritGenes(): 0:00:00.680006
+DoAdultMortality(): 0:00:00.017903
+DoDisperse(): 0:00:00.030448
+DoOutput(): 0:00:00.015835
+End Generation Loop141: 0:00:00.872632
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.055073
+DoMate(): 0:00:00.055292
+DoOffspring(): 0:00:00.015739
+InheritGenes(): 0:00:00.645230
+DoAdultMortality(): 0:00:00.023672
+DoDisperse(): 0:00:00.031618
+DoOutput(): 0:00:00
+End Generation Loop142: 0:00:00.876852
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.065807
+DoMate(): 0:00:00.060863
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.668232
+DoAdultMortality(): 0:00:00.031096
+DoDisperse(): 0:00:00.031397
+DoOutput(): 0:00:00
+End Generation Loop143: 0:00:00.857395
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064304
+DoMate(): 0:00:00.063985
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.704404
+DoAdultMortality(): 0:00:00.026950
+DoDisperse(): 0:00:00.032462
+DoOutput(): 0:00:00.001573
+End Generation Loop144: 0:00:00.893678
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063169
+DoMate(): 0:00:00.061499
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.652076
+DoAdultMortality(): 0:00:00.031813
+DoDisperse(): 0:00:00.030737
+DoOutput(): 0:00:00
+End Generation Loop145: 0:00:00.839294
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064522
+DoMate(): 0:00:00.063289
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.685563
+DoAdultMortality(): 0:00:00.030342
+DoDisperse(): 0:00:00.030915
+DoOutput(): 0:00:00
+End Generation Loop146: 0:00:00.874631
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.074411
+DoMate(): 0:00:00.053396
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.719757
+DoAdultMortality(): 0:00:00.013895
+DoDisperse(): 0:00:00.048399
+DoOutput(): 0:00:00.000807
+End Generation Loop147: 0:00:00.910665
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062109
+DoMate(): 0:00:00.068964
+DoOffspring(): 0:00:00.009116
+InheritGenes(): 0:00:00.671373
+DoAdultMortality(): 0:00:00.031044
+DoDisperse(): 0:00:00.046650
+DoOutput(): 0:00:00.001140
+End Generation Loop148: 0:00:00.890396
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.047355
+DoMate(): 0:00:00.078918
+DoOffspring(): 0:00:00.002929
+InheritGenes(): 0:00:00.746134
+DoAdultMortality(): 0:00:00.031645
+DoDisperse(): 0:00:00.033611
+DoOutput(): 0:00:00
+End Generation Loop149: 0:00:00.941299
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.068546
+DoMate(): 0:00:00.056212
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.695787
+DoAdultMortality(): 0:00:00.031711
+DoDisperse(): 0:00:00.031368
+DoOutput(): 0:00:00
+End Generation Loop150: 0:00:00.883624
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.110729
+DoMate(): 0:00:00.063353
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.742646
+DoAdultMortality(): 0:00:00.033904
+DoDisperse(): 0:00:00.033893
+DoOutput(): 0:00:00
+End Generation Loop151: 0:00:00.984525
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.074439
+DoMate(): 0:00:00.064503
+DoOffspring(): 0:00:00.015031
+InheritGenes(): 0:00:00.743587
+DoAdultMortality(): 0:00:00.033441
+DoDisperse(): 0:00:00.031245
+DoOutput(): 0:00:00
+End Generation Loop152: 0:00:00.962246
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062675
+DoMate(): 0:00:00.064986
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.740483
+DoAdultMortality(): 0:00:00.032015
+DoDisperse(): 0:00:00.030836
+DoOutput(): 0:00:00
+End Generation Loop153: 0:00:00.930995
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062506
+DoMate(): 0:00:00.063387
+DoOffspring(): 0:00:00.000738
+InheritGenes(): 0:00:00.757840
+DoAdultMortality(): 0:00:00.045792
+DoDisperse(): 0:00:00.045763
+DoOutput(): 0:00:00.001524
+End Generation Loop154: 0:00:00.993175
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.142555
+DoMate(): 0:00:00.079781
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.795344
+DoAdultMortality(): 0:00:00.034941
+DoDisperse(): 0:00:00.029587
+DoOutput(): 0:00:00
+End Generation Loop155: 0:00:01.082208
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062422
+DoMate(): 0:00:00.062863
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:01.013661
+DoAdultMortality(): 0:00:00.030318
+DoDisperse(): 0:00:00.031699
+DoOutput(): 0:00:00
+End Generation Loop156: 0:00:01.200963
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.068837
+DoMate(): 0:00:00.075308
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.714938
+DoAdultMortality(): 0:00:00.031851
+DoDisperse(): 0:00:00.033981
+DoOutput(): 0:00:00
+End Generation Loop157: 0:00:00.924915
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063158
+DoMate(): 0:00:00.063925
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.713889
+DoAdultMortality(): 0:00:00.034170
+DoDisperse(): 0:00:00.029464
+DoOutput(): 0:00:00.014540
+End Generation Loop158: 0:00:00.919146
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.048789
+DoMate(): 0:00:00.078075
+DoOffspring(): 0:00:00.001097
+InheritGenes(): 0:00:00.667065
+DoAdultMortality(): 0:00:00.031344
+DoDisperse(): 0:00:00.031562
+DoOutput(): 0:00:00
+End Generation Loop159: 0:00:00.857932
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064703
+DoMate(): 0:00:00.062177
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.704635
+DoAdultMortality(): 0:00:00.028387
+DoDisperse(): 0:00:00.027395
+DoOutput(): 0:00:00
+End Generation Loop160: 0:00:00.887297
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.067205
+DoMate(): 0:00:00.068254
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.675375
+DoAdultMortality(): 0:00:00.025513
+DoDisperse(): 0:00:00.020986
+DoOutput(): 0:00:00.015156
+End Generation Loop161: 0:00:00.872489
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063962
+DoMate(): 0:00:00.062893
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.678970
+DoAdultMortality(): 0:00:00.021156
+DoDisperse(): 0:00:00.038819
+DoOutput(): 0:00:00
+End Generation Loop162: 0:00:00.865800
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.056037
+DoMate(): 0:00:00.065319
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.665095
+DoAdultMortality(): 0:00:00.033449
+DoDisperse(): 0:00:00.030084
+DoOutput(): 0:00:00
+End Generation Loop163: 0:00:00.849984
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062787
+DoMate(): 0:00:00.057613
+DoOffspring(): 0:00:00.005437
+InheritGenes(): 0:00:00.681689
+DoAdultMortality(): 0:00:00.030843
+DoDisperse(): 0:00:00.031934
+DoOutput(): 0:00:00
+End Generation Loop164: 0:00:00.870303
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063538
+DoMate(): 0:00:00.062879
+DoOffspring(): 0:00:00.015666
+InheritGenes(): 0:00:00.640191
+DoAdultMortality(): 0:00:00.028027
+DoDisperse(): 0:00:00.031772
+DoOutput(): 0:00:00
+End Generation Loop165: 0:00:00.842073
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063585
+DoMate(): 0:00:00.063990
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.743747
+DoAdultMortality(): 0:00:00.032654
+DoDisperse(): 0:00:00.043543
+DoOutput(): 0:00:00
+End Generation Loop166: 0:00:00.947519
+
+ReadGrid(): 0:00:00.003049
+GetMetrics(): 0:00:00.047951
+DoMate(): 0:00:00.066582
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.716833
+DoAdultMortality(): 0:00:00.014830
+DoDisperse(): 0:00:00.045441
+DoOutput(): 0:00:00.001015
+End Generation Loop167: 0:00:00.895701
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.061901
+DoMate(): 0:00:00.063114
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.695654
+DoAdultMortality(): 0:00:00.016540
+DoDisperse(): 0:00:00.032327
+DoOutput(): 0:00:00
+End Generation Loop168: 0:00:00.869536
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064301
+DoMate(): 0:00:00.077567
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.636086
+DoAdultMortality(): 0:00:00.031961
+DoDisperse(): 0:00:00.031294
+DoOutput(): 0:00:00
+End Generation Loop169: 0:00:00.841209
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062344
+DoMate(): 0:00:00.064256
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.683437
+DoAdultMortality(): 0:00:00.030687
+DoDisperse(): 0:00:00.032812
+DoOutput(): 0:00:00.007003
+End Generation Loop170: 0:00:00.999781
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.048581
+DoMate(): 0:00:00.063936
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.651724
+DoAdultMortality(): 0:00:00.029140
+DoDisperse(): 0:00:00.031968
+DoOutput(): 0:00:00
+End Generation Loop171: 0:00:00.825349
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.067911
+DoMate(): 0:00:00.058480
+DoOffspring(): 0:00:00.015617
+InheritGenes(): 0:00:00.650036
+DoAdultMortality(): 0:00:00.034331
+DoDisperse(): 0:00:00.037869
+DoOutput(): 0:00:00
+End Generation Loop172: 0:00:00.864244
+
+ReadGrid(): 0:00:00.004008
+GetMetrics(): 0:00:00.050662
+DoMate(): 0:00:00.063260
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.665729
+DoAdultMortality(): 0:00:00.020582
+DoDisperse(): 0:00:00.028653
+DoOutput(): 0:00:00
+End Generation Loop173: 0:00:00.832894
+
+ReadGrid(): 0:00:00.014613
+GetMetrics(): 0:00:00.063778
+DoMate(): 0:00:00.079389
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.732462
+DoAdultMortality(): 0:00:00.016261
+DoDisperse(): 0:00:00.047073
+DoOutput(): 0:00:00.002304
+End Generation Loop174: 0:00:00.955880
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.058949
+DoMate(): 0:00:00.063843
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.698238
+DoAdultMortality(): 0:00:00.017390
+DoDisperse(): 0:00:00.032424
+DoOutput(): 0:00:00.014714
+End Generation Loop175: 0:00:00.885558
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.049108
+DoMate(): 0:00:00.062499
+DoOffspring(): 0:00:00.015614
+InheritGenes(): 0:00:00.666407
+DoAdultMortality(): 0:00:00.016514
+DoDisperse(): 0:00:00.031027
+DoOutput(): 0:00:00.015195
+End Generation Loop176: 0:00:00.856364
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062869
+DoMate(): 0:00:00.049068
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.681950
+DoAdultMortality(): 0:00:00.031254
+DoDisperse(): 0:00:00.032185
+DoOutput(): 0:00:00
+End Generation Loop177: 0:00:00.857326
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064446
+DoMate(): 0:00:00.063423
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.715398
+DoAdultMortality(): 0:00:00.032638
+DoDisperse(): 0:00:00.031089
+DoOutput(): 0:00:00
+End Generation Loop178: 0:00:00.906994
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062293
+DoMate(): 0:00:00.063984
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.666889
+DoAdultMortality(): 0:00:00.031904
+DoDisperse(): 0:00:00.031896
+DoOutput(): 0:00:00
+End Generation Loop179: 0:00:00.856966
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063397
+DoMate(): 0:00:00.063029
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.680181
+DoAdultMortality(): 0:00:00.031393
+DoDisperse(): 0:00:00.031580
+DoOutput(): 0:00:00
+End Generation Loop180: 0:00:00.869580
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062445
+DoMate(): 0:00:00.063745
+DoOffspring(): 0:00:00.016268
+InheritGenes(): 0:00:00.652140
+DoAdultMortality(): 0:00:00.016579
+DoDisperse(): 0:00:00.030817
+DoOutput(): 0:00:00.016719
+End Generation Loop181: 0:00:00.858713
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.046751
+DoMate(): 0:00:00.080631
+DoOffspring(): 0:00:00.004511
+InheritGenes(): 0:00:00.680521
+DoAdultMortality(): 0:00:00.033133
+DoDisperse(): 0:00:00.029952
+DoOutput(): 0:00:00.015955
+End Generation Loop182: 0:00:00.891454
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.048100
+DoMate(): 0:00:00.080119
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.714392
+DoAdultMortality(): 0:00:00.029018
+DoDisperse(): 0:00:00.031112
+DoOutput(): 0:00:00.005572
+End Generation Loop183: 0:00:00.908313
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064930
+DoMate(): 0:00:00.072081
+DoOffspring(): 0:00:00.002830
+InheritGenes(): 0:00:00.648371
+DoAdultMortality(): 0:00:00.032670
+DoDisperse(): 0:00:00.030125
+DoOutput(): 0:00:00.016381
+End Generation Loop184: 0:00:00.867388
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064160
+DoMate(): 0:00:00.061631
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.728651
+DoAdultMortality(): 0:00:00.030782
+DoDisperse(): 0:00:00.031307
+DoOutput(): 0:00:00
+End Generation Loop185: 0:00:00.916531
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.080237
+DoMate(): 0:00:00.068045
+DoOffspring(): 0:00:00.004050
+InheritGenes(): 0:00:00.700099
+DoAdultMortality(): 0:00:00.029754
+DoDisperse(): 0:00:00.031497
+DoOutput(): 0:00:00
+End Generation Loop186: 0:00:00.914688
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064057
+DoMate(): 0:00:00.062467
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.711643
+DoAdultMortality(): 0:00:00.015675
+DoDisperse(): 0:00:00.047361
+DoOutput(): 0:00:00
+End Generation Loop187: 0:00:00.901203
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.094930
+DoMate(): 0:00:00.082917
+DoOffspring(): 0:00:00.004694
+InheritGenes(): 0:00:00.767708
+DoAdultMortality(): 0:00:00.032450
+DoDisperse(): 0:00:00.030123
+DoOutput(): 0:00:00
+End Generation Loop188: 0:00:01.012822
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063416
+DoMate(): 0:00:00.111196
+DoOffspring(): 0:00:00.000688
+InheritGenes(): 0:00:00.793171
+DoAdultMortality(): 0:00:00.032156
+DoDisperse(): 0:00:00.032168
+DoOutput(): 0:00:00
+End Generation Loop189: 0:00:01.032795
+
+ReadGrid(): 0:00:00.015680
+GetMetrics(): 0:00:00.062829
+DoMate(): 0:00:00.079233
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.738223
+DoAdultMortality(): 0:00:00.023151
+DoDisperse(): 0:00:00.033033
+DoOutput(): 0:00:00
+End Generation Loop190: 0:00:00.952149
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063539
+DoMate(): 0:00:00.063062
+DoOffspring(): 0:00:00.017922
+InheritGenes(): 0:00:00.726104
+DoAdultMortality(): 0:00:00.031555
+DoDisperse(): 0:00:00.043117
+DoOutput(): 0:00:00.004733
+End Generation Loop191: 0:00:00.950032
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064103
+DoMate(): 0:00:00.063043
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.697783
+DoAdultMortality(): 0:00:00.030623
+DoDisperse(): 0:00:00.030770
+DoOutput(): 0:00:00.009838
+End Generation Loop192: 0:00:00.896160
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.054337
+DoMate(): 0:00:00.082444
+DoOffspring(): 0:00:00.003591
+InheritGenes(): 0:00:00.735152
+DoAdultMortality(): 0:00:00.032200
+DoDisperse(): 0:00:00.031370
+DoOutput(): 0:00:00
+End Generation Loop193: 0:00:00.939094
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064410
+DoMate(): 0:00:00.063479
+DoOffspring(): 0:00:00.016223
+InheritGenes(): 0:00:00.684112
+DoAdultMortality(): 0:00:00.029091
+DoDisperse(): 0:00:00.028555
+DoOutput(): 0:00:00
+End Generation Loop194: 0:00:00.885870
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064234
+DoMate(): 0:00:00.068008
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.726376
+DoAdultMortality(): 0:00:00.030200
+DoDisperse(): 0:00:00.031392
+DoOutput(): 0:00:00
+End Generation Loop195: 0:00:00.920210
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.062898
+DoMate(): 0:00:00.062640
+DoOffspring(): 0:00:00.016107
+InheritGenes(): 0:00:00.723096
+DoAdultMortality(): 0:00:00.032682
+DoDisperse(): 0:00:00.028852
+DoOutput(): 0:00:00
+End Generation Loop196: 0:00:00.926275
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.064266
+DoMate(): 0:00:00.069424
+DoOffspring(): 0:00:00.002455
+InheritGenes(): 0:00:00.718961
+DoAdultMortality(): 0:00:00.033469
+DoDisperse(): 0:00:00.029141
+DoOutput(): 0:00:00
+End Generation Loop197: 0:00:00.917716
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063182
+DoMate(): 0:00:00.063711
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.745522
+DoAdultMortality(): 0:00:00.015628
+DoDisperse(): 0:00:00.031863
+DoOutput(): 0:00:00.015773
+End Generation Loop198: 0:00:00.935679
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.076005
+DoMate(): 0:00:00.046854
+DoOffspring(): 0:00:00.015116
+InheritGenes(): 0:00:00.773752
+DoAdultMortality(): 0:00:00.031362
+DoDisperse(): 0:00:00.031263
+DoOutput(): 0:00:00
+End Generation Loop199: 0:00:01.057058
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.063640
+DoMate(): 0:00:00.063025
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.710279
+DoAdultMortality(): 0:00:00.032596
+DoDisperse(): 0:00:00.030866
+The file grid201.csv has been created
+DoOutput(): 0:00:00.095400
+End Generation Loop200: 0:00:00.995806
+
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.000510
+End Monte Carlo Loop0: 0:03:09.810204
+
+End Batch Loop0: 0:03:09.810204
+
+Total CDPOP Simulation Time: 0:03:09.810204

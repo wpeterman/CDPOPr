@@ -1,0 +1,39 @@
+
+CDPOP Release 2023.01.19-09:55:00MDT Version version 1.3.19
+
+Author(s): Erin L Landguth et al.
+
+Session runtime inputs from: C:/Users/peterman.73/R/CDPOP/CDPOP-master/data//inputvars_.csv
+
+
+DoUserInput(): 0:00:00
+DoPreProcess(): 0:00:00.003464
+DoCDCliamte(): 0:00:00
+GetMetrics(): 0:00:00.001006
+DoMate(): 0:00:00.001000
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+The file grid1.csv has been created
+DoOutput(): 0:00:00.000999
+End Generation Loop0: 0:00:00.003005
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00
+DoMate(): 0:00:00.001001
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+DoOutput(): 0:00:00
+End Generation Loop1: 0:00:00.001001
+
+Population went extinct, program ended.
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.001000
+End Monte Carlo Loop0: 0:00:00.008470
+
+End Batch Loop0: 0:00:00.008470
+
+Total CDPOP Simulation Time: 0:00:00.009430

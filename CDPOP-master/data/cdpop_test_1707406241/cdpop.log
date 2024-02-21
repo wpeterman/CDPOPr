@@ -1,0 +1,134 @@
+
+CDPOP Release 2023.01.19-09:55:00MDT Version version 1.3.19
+
+Author(s): Erin L Landguth et al.
+
+Session runtime inputs from: C:/Users/peterman.73/R/CDPOP/CDPOP-master/data//inputvars_test.csv
+
+
+DoUserInput(): 0:00:00
+DoPreProcess(): 0:00:00.002000
+DoCDCliamte(): 0:00:00.001268
+GetMetrics(): 0:00:00
+DoMate(): 0:00:00.001494
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.002033
+DoAdultMortality(): 0:00:00.000982
+DoDisperse(): 0:00:00
+The file grid1.csv has been created
+DoOutput(): 0:00:00.001572
+End Generation Loop0: 0:00:00.007349
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.001001
+DoMate(): 0:00:00.001001
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.002998
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+The file grid2.csv has been created
+DoOutput(): 0:00:00.002001
+End Generation Loop1: 0:00:00.007001
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.001001
+DoMate(): 0:00:00.000999
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.004008
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+The file grid3.csv has been created
+DoOutput(): 0:00:00.001993
+End Generation Loop2: 0:00:00.008001
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.000999
+DoMate(): 0:00:00.001000
+DoOffspring(): 0:00:00.000060
+InheritGenes(): 0:00:00.003026
+DoAdultMortality(): 0:00:00.001001
+DoDisperse(): 0:00:00
+The file grid4.csv has been created
+DoOutput(): 0:00:00.001999
+End Generation Loop3: 0:00:00.008085
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00
+DoMate(): 0:00:00.001002
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.005002
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+The file grid5.csv has been created
+DoOutput(): 0:00:00.011811
+End Generation Loop4: 0:00:00.017815
+
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.001004
+End Monte Carlo Loop0: 0:00:00.051255
+
+End Batch Loop0: 0:00:00.051255
+
+DoPreProcess(): 0:00:00.002000
+DoCDCliamte(): 0:00:00.001000
+GetMetrics(): 0:00:00
+DoMate(): 0:00:00.001001
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.001998
+DoAdultMortality(): 0:00:00.001040
+DoDisperse(): 0:00:00
+The file grid1.csv has been created
+DoOutput(): 0:00:00.000960
+End Generation Loop0: 0:00:00.005999
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00
+DoMate(): 0:00:00.001408
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.002097
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+The file grid2.csv has been created
+DoOutput(): 0:00:00.002000
+End Generation Loop1: 0:00:00.005505
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00
+DoMate(): 0:00:00.001022
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.002996
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+The file grid3.csv has been created
+DoOutput(): 0:00:00.001937
+End Generation Loop2: 0:00:00.005955
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.001027
+DoMate(): 0:00:00.001237
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.003004
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00
+The file grid4.csv has been created
+DoOutput(): 0:00:00.002001
+End Generation Loop3: 0:00:00.007269
+
+ReadGrid(): 0:00:00
+GetMetrics(): 0:00:00.001072
+DoMate(): 0:00:00.001030
+DoOffspring(): 0:00:00
+InheritGenes(): 0:00:00.002021
+DoAdultMortality(): 0:00:00
+DoDisperse(): 0:00:00.000998
+The file grid5.csv has been created
+DoOutput(): 0:00:00.001884
+End Generation Loop4: 0:00:00.007005
+
+The file outputfile.csv has been created
+DoPostProcess(): 0:00:00.001998
+End Monte Carlo Loop0: 0:00:00.035731
+
+End Batch Loop1: 0:00:00.035731
+
+Total CDPOP Simulation Time: 0:00:00.087986
