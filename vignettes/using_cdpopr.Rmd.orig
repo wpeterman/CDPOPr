@@ -64,7 +64,7 @@ raw_rast <- NLMR::nlm_gaussianfield(r_dim,
                                     autocorr_range = r_dim * 0.1,
                                     nug = 0.15,
                                     rescale = F,
-                                    user_seed = 2580) 
+                                    user_seed = 2580)
 # Transformed into resistance surface
 resist_rast <- exp(raw_rast * 0.25)
 ```
@@ -87,13 +87,9 @@ pts <- sp::SpatialPoints(sample_suit[sample(nrow(sample_suit), n_Ind, replace = 
 
 Take a look at what we've created.
 
-```{r raster_fig, fig.width=6, fig.height=6, eval=F}
+```{r resist_rast, fig.width=6, fig.height=6}
 raster::plot(resist_rast)
 plot(pts, add = T, pch = 19)
-```
-
-```{r out.width=6}
-knitr::include_graphics("plot.png")
 ```
 
 ## Run CDPOP
@@ -123,7 +119,7 @@ cdpop_sim <- cdpop(sim_name = sim_name,
 
 The CDPOPr function runs CDPOP, imports the data, and formats into a `genind` object. These are stored in a list. Below, we will look at the at the last generation of the simulation. We'll read in the effective distance matrix calculated by `gdistance` using the `commuteDistance` function. This matrix was written to the specified `sim_dir`
 
-```{r}
+```{r distance_plots, fig.width=6, fig.height=6}
 resist_mat <- read.csv('C:/Users/peterman.73/R/CDPOP/test_sim/data/resist_mat.csv',
                        header = F)
 
@@ -166,4 +162,4 @@ ecodist::mantel(lower(pc) ~ lower(resist_mat[inds,inds]))
 
 ```
 
-## 
+##

@@ -65,7 +65,7 @@ raw_rast <- NLMR::nlm_gaussianfield(r_dim,
                                     autocorr_range = r_dim * 0.1,
                                     nug = 0.15,
                                     rescale = F,
-                                    user_seed = 2580) 
+                                    user_seed = 2580)
 # Transformed into resistance surface
 resist_rast <- exp(raw_rast * 0.25)
 ```
@@ -95,15 +95,7 @@ raster::plot(resist_rast)
 plot(pts, add = T, pch = 19)
 ```
 
-
-```r
-knitr::include_graphics("plot.png")
-```
-
-<div class="figure">
-<img src="plot.png" alt="plot of chunk unnamed-chunk-7" width="6" />
-<p class="caption">plot of chunk unnamed-chunk-7</p>
-</div>
+![plot of chunk resist_rast](figure/resist_rast-1.png)
 
 ## Run CDPOP
 
@@ -143,7 +135,7 @@ pc <- pca_dist(cdpop_grid[[gen_get]], n_axes = 32)
 plot(lower(Dps) ~ c(dist(pts@coords[inds])))
 ```
 
-![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9-1.png)
+![plot of chunk distance_plots](figure/distance_plots-1.png)
 
 ```r
 
@@ -153,21 +145,21 @@ plot(lower(Dps) ~ lower(resist_mat[inds,inds]),
 abline(lm(lower(Dps) ~ lower(resist_mat[inds,inds])), col = 'red')
 ```
 
-![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9-2.png)
+![plot of chunk distance_plots](figure/distance_plots-2.png)
 
 ```r
 
 # Calculate Mantel statistic
 ecodist::mantel(lower(Dps) ~ lower(resist_mat[inds,inds]))
 #>    mantelr      pval1      pval2      pval3  llim.2.5% ulim.97.5% 
-#>  0.6763727  0.0010000  1.0000000  0.0010000  0.6681998  0.6841556
+#>  0.7144700  0.0010000  1.0000000  0.0010000  0.7070228  0.7226076
 
 
 # Plot pc in relation to Euclidean distance
 plot(lower(pc) ~ c(dist(pts@coords[inds])))
 ```
 
-![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9-3.png)
+![plot of chunk distance_plots](figure/distance_plots-3.png)
 
 ```r
 
@@ -176,14 +168,14 @@ plot(lower(pc) ~ lower(resist_mat[inds,inds]),
      xlab = 'PCA Distance', ylab = 'Resistance Distance'); abline(lm(lower(pc) ~ lower(resist_mat[inds,inds])), col = 'red')
 ```
 
-![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9-4.png)
+![plot of chunk distance_plots](figure/distance_plots-4.png)
 
 ```r
 
 # Calculate Mantel statistic
 ecodist::mantel(lower(pc) ~ lower(resist_mat[inds,inds]))
 #>    mantelr      pval1      pval2      pval3  llim.2.5% ulim.97.5% 
-#>  0.6494700  0.0010000  1.0000000  0.0010000  0.6407679  0.6576144
+#>  0.6964811  0.0010000  1.0000000  0.0010000  0.6888333  0.7053142
 ```
 
-## 
+##
