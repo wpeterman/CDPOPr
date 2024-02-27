@@ -70,7 +70,7 @@ raw_rast <- NLMR::nlm_gaussianfield(r_dim,
 resist_rast <- exp(raw_rast * 0.25)
 ```
 
-Now, we determine the the quantile threshold that we want to be 'suitable' for our points. We extract values of our raster at each point, then retain only points that are less than or equal to the threshold value. Finally, we convert our final selected points to a `SpatialPoints` object.
+Now, we determine the quantile threshold that we want to be 'suitable' for our points. We extract values of our raster at each point, then retain only points that are less than or equal to the threshold value. Lastly, we convert our final selected points to a `SpatialPoints` object.
 
 
 ```r
@@ -102,9 +102,23 @@ plot(pts, add = T, pch = 19)
 We're now ready to run CDPOP with `CDPOPr`! The parameters specified in the function below are the main parameters that you are likely to want to adjust in your simulations. You can adjust any CDPOP parameter, but this function has been streamlined for basic simulation purposes. Make sure that your specified `sim_dir` does not have any spaces or dashes (-).
 
 
-```
-#> [1] "Calculating resistance distance with `gdistance`..."
-#> [1] "Running CDPOP..."
+```r
+# Specify simulation name
+sim_name <- "test_"
+
+cdpop_sim <- cdpop(sim_name = sim_name,
+                   pts = pts,
+                   resist_rast = resist_rast,
+                   sim_dir = 'C:/Users/peterman.73/R/CDPOP/test_sim/',
+                   looptime = 201,
+                   output_years = 100,
+                   gridformat = 'cdpop',
+                   loci = 10,
+                   alleles = 10,
+                   matemoveno = 2, # 2 inv. square
+                   matemovethresh = '30max', # 30-40max often best
+                   MeanFecundity = 2,
+                   mateFrequency = 1)
 ```
 
 ## Genetic Data
@@ -152,7 +166,7 @@ abline(lm(lower(Dps) ~ lower(resist_mat[inds,inds])), col = 'red')
 # Calculate Mantel statistic
 ecodist::mantel(lower(Dps) ~ lower(resist_mat[inds,inds]))
 #>    mantelr      pval1      pval2      pval3  llim.2.5% ulim.97.5% 
-#>  0.7144700  0.0010000  1.0000000  0.0010000  0.7070228  0.7226076
+#>  0.6792210  0.0010000  1.0000000  0.0010000  0.6714236  0.6871634
 
 
 # Plot pc in relation to Euclidean distance
@@ -175,7 +189,7 @@ plot(lower(pc) ~ lower(resist_mat[inds,inds]),
 # Calculate Mantel statistic
 ecodist::mantel(lower(pc) ~ lower(resist_mat[inds,inds]))
 #>    mantelr      pval1      pval2      pval3  llim.2.5% ulim.97.5% 
-#>  0.6964811  0.0010000  1.0000000  0.0010000  0.6888333  0.7053142
+#>  0.6547361  0.0010000  1.0000000  0.0010000  0.6479845  0.6621032
 ```
 
 ##

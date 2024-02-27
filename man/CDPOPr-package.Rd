@@ -6,7 +6,7 @@
 \alias{CDPOPr-package}
 \title{CDPOPr: Run CDPOP from R}
 \description{
-What the package does (one paragraph).
+This package provides a function for running CDPOP from R.
 }
 \author{
 \strong{Maintainer}: Bill Peterman \email{Peterman.73@osu.edu} (\href{https://orcid.org/0000-0001-5229-9268}{ORCID})
