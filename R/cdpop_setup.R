@@ -11,12 +11,12 @@
 
 cdpop_setup <- function(){
   if(dir.exists(paste0(tempdir(),"\\cdpop"))){
-    to <- normalizePath(paste0(tempdir(),"\\cdpop"))
+    to <- normalizePath(paste0(tempdir(),"\\cdpop\\"))
 
   } else {
     from <- system.file("cdpop", package="CDPOPr")
     dir.create(paste0(tempdir(),"\\cdpop"), recursive = T, showWarnings = F)
-    to <- normalizePath(paste0(tempdir(),"\\cdpop"))
+    to <- normalizePath(paste0(tempdir(),"\\cdpop\\"))
 
     file.copy(list.files(from,
                          # recursive = TRUE,
