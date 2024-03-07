@@ -28,19 +28,31 @@
 
 pca_dist <- function(gi,
                      n_axes = 16,
-                     scale = TRUE){
+                     scale = TRUE,
+                     dudi.pca = TRUE){
   a_tab <- adegenet::tab(gi)
   if(n_axes > dim(a_tab)[1] | n_axes > dim(a_tab)[2]){
     stop("Number of axes must be less than the number of individuals and loci in the data set.")
   }
-  pc <- prcomp(a_tab)
+
+  if(isTRUE(dudi.pca)){
+    gi_scale <- scaleGen(gi)
+    pc <- dudi.pca(gi_scale,
+                   cent = FALSE,
+                   scale = FALSE,
+                   scannf = FALSE,
+                   nf = n_axes)
+    pc_ <- pc$li
+  } else {
+    pc <- prcomp(a_tab)
+    pc_ <- pc$x
+  }
 
   if(isTRUE(scale)){
-    pc_dist <- as.matrix(scale_01(dist(pc$x[,1:n_axes])))
+    pc_dist <- as.matrix(scale_01(dist(pc_[,1:n_axes])))
 
   } else {
-    pc_dist <- as.matrix(dist(pc$x[,1:n_axes]))
-
+    pc_dist <- as.matrix(dist(pc_[,1:n_axes]))
   }
 
   return(pc_dist)

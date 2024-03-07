@@ -142,7 +142,7 @@ cdpop <- function(sim_name = 'output_',
   suppressWarnings(
     dir.create(paste0(sim_dir,"/data/"), recursive = TRUE)
   )
-  data_dir <- paste0(sim_dir,"/data/")
+  data_dir <- normalizePath(paste0(sim_dir,"/data/"))
 
 
   # Fill NULL ---------------------------------------------------------------

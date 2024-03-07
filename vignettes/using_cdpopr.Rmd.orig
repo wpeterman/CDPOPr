@@ -136,7 +136,7 @@ inds <- cdpop_sim$pop_list[[gen_get]]
 Dps <- 1 - adegenet::propShared(cdpop_grid[[gen_get]])
 
 # PCA distance
-pc <- pca_dist(cdpop_grid[[gen_get]], n_axes = 32)
+pc <- pca_dist(cdpop_grid[[gen_get]], n_axes = 32, dudi.pca = T)
 
 # Plot Dps in relation to Euclidean distance
 plot(lower(Dps) ~ c(dist(pts@coords[inds])))
@@ -162,4 +162,4 @@ ecodist::mantel(lower(pc) ~ lower(resist_mat[inds,inds]))
 
 ```
 
-##
+## 

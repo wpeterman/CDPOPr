@@ -4,7 +4,7 @@
 \alias{pca_dist}
 \title{Function to calculate PCA distance between individuals}
 \usage{
-pca_dist(gi, n_axes = 16, scale = TRUE)
+pca_dist(gi, n_axes = 16, scale = TRUE, dudi.pca = TRUE)
 }
 \arguments{
 \item{gi}{Object of class \code{genind} from the \code{adegenet} package}

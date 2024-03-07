@@ -1,6 +1,6 @@
 Package: CDPOPr
 Title: Run CDPOP from R
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person("Bill", "Peterman", , "Peterman.73@osu.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-5229-9268"))
