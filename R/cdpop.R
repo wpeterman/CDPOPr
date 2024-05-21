@@ -152,7 +152,7 @@ cdpop <- function(sim_name = 'output_',
       stop('Specify a probability matrix instead of a raster layer!')
     }
     write.table(resist_rast,
-                paste0(data_dir, "move_prob.csv"),
+                paste0(data_dir, "//move_prob.csv"),
                 sep = ",",
                 row.names = FALSE,
                 col.names = FALSE)
@@ -192,7 +192,7 @@ cdpop <- function(sim_name = 'output_',
                          `Male Maturation` = c(0,1),
                          `Female Maturation` = c(0,1),
                          check.names = F)
-    write.table(age_df, paste0(data_dir, 'AgeVars.csv'),
+    write.table(age_df, paste0(data_dir, '//AgeVars.csv'),
                 sep = ",",
                 row.names = F)
     # age_file <- paste0(data_dir, 'AgeVars.csv')
@@ -225,7 +225,7 @@ cdpop <- function(sim_name = 'output_',
                           Fitness_aabb = rep(0, length(pts))
   )
 
-  write.table(xyFile_df, paste0(data_dir, 'xyFile.csv'),
+  write.table(xyFile_df, paste0(data_dir, '//xyFile.csv'),
               sep = ',',
               row.names = F)
   # xyFile <- paste0(data_dir, 'xyFile')
@@ -258,12 +258,12 @@ cdpop <- function(sim_name = 'output_',
 
     ## Check file format, row/col names?
     write.table(resist_mat,
-                paste0(data_dir, "resist_mat.csv"),
+                paste0(data_dir, "//resist_mat.csv"),
                 sep = ",",
                 row.names = FALSE,
                 col.names = FALSE)
 
-    # cdmat <- paste0(data_dir, "resist_mat.csv")
+    # cdmat <- paste0(data_dir, "//resist_mat.csv")
     cdmat <- 'resist_mat'
   }
 
@@ -331,7 +331,7 @@ cdpop <- function(sim_name = 'output_',
   # colnames(cdpop_df) <- input_names[[1]]
 
   write.table(cdpop_df,
-              paste0(data_dir, "CDPOP_inputs.csv"),
+              paste0(data_dir, "//CDPOP_inputs.csv"),
               sep = ",",
               row.names = FALSE,
               col.names = TRUE,
